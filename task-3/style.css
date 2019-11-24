@@ -1,0 +1,170 @@
+.hed{
+    font-size: 50px;
+    font-weight:1000;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ff944d;
+    position: absolute;
+    top:1;
+    left:500px;
+}
+#dice{
+    position: absolute;
+    top: 100;
+    left:600;
+   
+}
+body{
+    background-color: #004d00;
+}
+
+#box1{
+    width: 250;
+    height: 250;
+    border-radius: 10px;
+    margin: 20px;
+    position: absolute;
+    top:200;
+    left:250;
+    background-image: linear-gradient(to bottom right,#ff0000,#990000 );
+    
+}
+#score{
+    position:absolute;
+    top:70;
+    left:60;
+    font-size:20px;
+    color: aliceblue;
+}
+#run{
+    position: absolute;
+    left:50;
+    color: aliceblue;
+}
+#cur{
+    position: absolute;
+    top:123;
+    left:47;
+    font-size:20px;
+    color: aliceblue;
+}
+#rns{
+    position: absolute;
+    left:63;
+    color: aliceblue;
+}
+
+#score1{
+    position:absolute;
+    top:70;
+    left:60;
+    font-size:20px;
+    color: aliceblue;
+}
+#run1{
+    position: absolute;
+    left:50;
+    color: aliceblue;
+  
+}
+#cur1{
+    position: absolute;
+    top:123;
+    left:47;
+    font-size:20px;
+    color: aliceblue;
+}
+#rns1{
+    position: absolute;
+    left:63;
+    color: aliceblue;
+}
+
+
+#box2{
+    width: 250;
+    height: 250;
+    border-radius: 10px;
+    margin: 20px;
+    position: absolute;
+    top:200;
+    left:765;
+    background-image: linear-gradient(to bottom right,#ff0000,#990000 );  
+   
+}
+
+#p1{
+    position: absolute;
+   
+    font-size:30;
+    color: darkkhaki;
+    background-color: #ee1010;
+    padding: 5px 56.5px;
+    border-radius: 10px;
+}
+#p2{
+    position: absolute;
+    
+    font-size: 30;
+    color: darkkhaki;
+    background-color: #ee1010;
+    padding: 5px 56.5px;
+    border-radius: 10px;
+}
+#vs{
+    height:100px;
+    width:100px;
+    position: absolute;
+    top: 250;
+    left:600;
+    border-radius: 25px;
+   
+}
+.button1{
+    padding:9px 28px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 15px;
+    border-color: orangered;
+    color:white; 
+    background-color: orangered;
+    position: absolute;
+    top:410;
+    left:336;
+}
+.button2{
+    padding:9px 28px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 15px;
+    border-color: orangered;
+    color: white;
+    background-color: orangered;
+    position: absolute;
+    top:410;
+    left:850;
+}
+.button3{
+    padding:12px 32px;
+    text-align: center;
+    font-size: 16px;
+     border-radius: 15px;
+    border-color:green;
+    color:white;
+    background-color: rgb(36, 212, 36);
+    position: absolute;
+    top:500;
+    left:700;
+}
+#start{
+    padding:12px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 15px;
+    border-color:00b8e6;
+    color: white;
+    background-color: 00b8e6;
+    position: absolute;
+    top:500;
+    left:500;
+    
+}
